@@ -379,6 +379,7 @@ button:not(:disabled) {
 
 .text {
   margin-bottom: 20px;
+  font-size: x-large;
 }
 .list-unstyled {
   padding-left: 0;
